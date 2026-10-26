@@ -1,0 +1,17 @@
+font-family = FiraCode Nerd Font Mono
+font-size = 14
+theme = Catppuccin Mocha
+
+window-padding-x = 8
+window-padding-y = 6
+window-padding-balance = true
+# tmux handles tabs/windows, so hide the macOS title bar
+macos-titlebar-style = hidden
+window-save-state = always
+
+mouse-hide-while-typing = true
+copy-on-select = clipboard
+confirm-close-surface = false
+
+# left Option acts as Alt (nvim/tmux shortcuts), right Option still types ą, ę, ś…
+macos-option-as-alt = left
