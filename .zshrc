@@ -115,3 +115,7 @@ esac
 export PATH=$PATH:$HOME/go/bin
 
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export PATH="$HOME/.local/bin:$PATH"
+
+# opencode
+export PATH=/Users/kczarny/.opencode/bin:$PATH
